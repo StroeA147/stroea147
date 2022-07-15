@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexandru Stroe
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning Autosar and Python
 - 💞️ I’m not looking to colaborate now
 - 📫 Can't reach me now
 
